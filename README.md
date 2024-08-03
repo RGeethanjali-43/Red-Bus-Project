@@ -25,3 +25,6 @@ Technical Tags used:
 6) Python
 7) Interactive Application
 
+
+Here with I attached my streamlit application link:  http://localhost:8501/
+

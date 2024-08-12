@@ -16,6 +16,8 @@ Created a table named bus routes, all the details got inserted to the table
 
 The final step I prepared my Streamlit web page used many select boxes to be attractive.
 
+All these steps are shortly known as ETL(Extract Transform Load)
+
 Technical Tags used:
 1) Web Scraping
 2) Selenium
